@@ -1,7 +1,7 @@
 # ManualBotTimer
 Finds any product on Supreme's website by keyword. Enter the keyword when prompted and hit enter. 
 
-The script will run at 11AM EST, the time when the webstore opens.
+The script will run at 11AM (you'll have to adjust the code if you're not in the eastern time zone), the time when the webstore opens.
 
 Due to constraints related to the schedules module the error handling is not as robust as the normal ManualBot script.
 For example in this script if a product is not initially found (due to site lag, for example) it will not rerun the script for
