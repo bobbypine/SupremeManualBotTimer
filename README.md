@@ -9,3 +9,5 @@ a set amount of time like the normal ManualBot script.
 
 Once a product is found it will open in your default webbrowser where you will then have to cart and checkout manually.
 
+Used this personally during week 3 of SS'19, it worked great. I had one running for the band aids (keyword band) and one for the tape measurer (keyword penco) and they both opened up on seperate tabs right at 11. From there I was able to cart from each tab and then checkout (using either tab). It was my first multi-item order, so that's cool.
+
