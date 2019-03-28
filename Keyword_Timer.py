@@ -38,7 +38,7 @@ keyword = input('Enter Keyword, Hit Enter When Ready:').lower()
 print()
 
 schedule.every().day.at("11:00").do(keysearch)
-print('Keyword loaded, searching for {} at 11AM EST'.format(keyword))
+print('Keyword loaded, searching for {} at 11AM'.format(keyword))
 print()
 
 while True:
