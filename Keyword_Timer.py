@@ -30,7 +30,7 @@ def keysearch():
                     print('.)', end = ""),
                     print(name,'-',cat, '-', price)
                     webbrowser.open(link)
-                    print('Product Found and Opened in {:.2f} Seconds'.format(time.time()-starttime))
+                    print('Product Found at {} and Opened in {:.2f} Seconds'.format(time.strftime("%I:%M:%S"), time.time()-starttime))
                     print()
 
 
