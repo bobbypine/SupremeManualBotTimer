@@ -5,7 +5,7 @@ The script will run at 11AM (you'll have to adjust the code if you're not in the
 
 Due to constraints related to the schedules module the error handling is not as robust as the normal ManualBot script.
 For example in this script if a product is not initially found (due to site lag, for example) it will not rerun the script for
-a set amount of time like the normal ManualBot script.
+a set amount of time like the normal ManualBot script. This will render the program useless unless the site updates right at 11AM, use at your own risk. 
 
 Once a product is found it will open in your default webbrowser where you will then have to cart and checkout manually.
 
